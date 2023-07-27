@@ -1,4 +1,4 @@
-# UI-UX-design-
+# UI-UX-Design-
 
 Link : https://www.figma.com/file/cvJHu65CHwKXzgy7kCVc1i/REMISE-LAB2?type=design&node-id=101-2&mode=design
 
